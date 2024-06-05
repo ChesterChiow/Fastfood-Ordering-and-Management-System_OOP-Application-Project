@@ -37,6 +37,6 @@ This project is done using Java programming language and applies the design prin
 - Java Programming
 - Object Oriented Programming concepts and design principles
 - UML Class Diagram
-- Serilisation
+- Serialisation
 - Error handling
 - Javadoc
